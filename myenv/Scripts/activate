@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Jimit\Documents\Class\CSCN8010_classwork\myenv"
+VIRTUAL_ENV="C:\Users\Jimit\Documents\Class\Jimit177.github.io\myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
